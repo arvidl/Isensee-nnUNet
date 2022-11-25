@@ -280,7 +280,7 @@ Please have a look at the following tasks:
 - [Task089](../nnunet/dataset_conversion/Task089_Fluo-N2DH-SIM.py) 2D tiff
 
 
--------------- END OF LOCAL SECTION OF readme.md ------------
+-------------- END OF LOCAL SECTION readme.md ------------
 
 -------------------------------------------------------
 
