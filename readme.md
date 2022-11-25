@@ -1,5 +1,5 @@
 # Isensee-nnUNet
-forked an modified from https://github.com/MIC-DKFZ/nnUNet <br>
+forked and modified from https://github.com/MIC-DKFZ/nnUNet <br>
 (AL 2022-11-25)
 
 Install:
