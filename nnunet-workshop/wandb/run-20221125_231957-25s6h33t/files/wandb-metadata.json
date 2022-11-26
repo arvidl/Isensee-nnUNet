@@ -1,0 +1,124 @@
+{
+    "os": "Linux-5.15.0-53-generic-x86_64-with-glibc2.35",
+    "python": "3.9.15",
+    "heartbeatAt": "2022-11-25T22:19:59.112189",
+    "startedAt": "2022-11-25T22:19:57.643624",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "nnunet-workshop/nnU-Net_Workshop.ipynb",
+    "root": "/home/arvid/GitHub/Isensee-nnUNet",
+    "git": {
+        "remote": "git@github.com:arvidl/Isensee-nnUNet.git",
+        "commit": "eb3fff73d41be1aeb9b7ce6142eba8c5e7884156"
+    },
+    "email": "arvid.lundervold@gmail.com",
+    "host": "Precision-7560",
+    "username": "arvid",
+    "executable": "/home/arvid/anaconda3/envs/nnunet/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 2715.773625,
+        "min": 800.0,
+        "max": 4925.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2600.0,
+            "min": 800.0,
+            "max": 4900.0
+        },
+        {
+            "current": 2600.0,
+            "min": 800.0,
+            "max": 4900.0
+        },
+        {
+            "current": 1703.157,
+            "min": 800.0,
+            "max": 4900.0
+        },
+        {
+            "current": 2600.0,
+            "min": 800.0,
+            "max": 4900.0
+        },
+        {
+            "current": 1322.691,
+            "min": 800.0,
+            "max": 5000.0
+        },
+        {
+            "current": 2600.0,
+            "min": 800.0,
+            "max": 5000.0
+        },
+        {
+            "current": 2600.0,
+            "min": 800.0,
+            "max": 4900.0
+        },
+        {
+            "current": 2600.0,
+            "min": 800.0,
+            "max": 4900.0
+        },
+        {
+            "current": 2600.0,
+            "min": 800.0,
+            "max": 4900.0
+        },
+        {
+            "current": 2600.0,
+            "min": 800.0,
+            "max": 4900.0
+        },
+        {
+            "current": 2600.0,
+            "min": 800.0,
+            "max": 4900.0
+        },
+        {
+            "current": 2600.0,
+            "min": 800.0,
+            "max": 4900.0
+        },
+        {
+            "current": 2600.0,
+            "min": 800.0,
+            "max": 5000.0
+        },
+        {
+            "current": 2600.0,
+            "min": 800.0,
+            "max": 5000.0
+        },
+        {
+            "current": 2600.0,
+            "min": 800.0,
+            "max": 4900.0
+        },
+        {
+            "current": 2600.0,
+            "min": 800.0,
+            "max": 4900.0
+        }
+    ],
+    "disk": {
+        "total": 3749.976303100586,
+        "used": 150.54174423217773
+    },
+    "gpu": "NVIDIA RTX A5000 Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA RTX A5000 Laptop GPU",
+            "memory_total": 17179869184
+        }
+    ],
+    "memory": {
+        "total": 125.01580810546875
+    }
+}
